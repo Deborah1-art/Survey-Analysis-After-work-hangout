@@ -7,7 +7,7 @@ The goal of the event is to create a space for open conversations, controversial
 
 Using Power BI, the data was analysed to understand audience preferences, ideal timing, and interest levels to ensure maximum participation and engagement.
 
-###Objectives
+## Objectives
 Identify the most suitable day and time for the hangout
 Understand the profile of the target audience
 Measure interest and willingness to attend
